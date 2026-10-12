@@ -5,8 +5,7 @@
 ### **Product Engineer & System Builder**  
 📍 *Ho Chi Minh City, Vietnam* &nbsp;•&nbsp; ✉️ `hungpixiwork@gmail.com`
 
-> *"Don't predict the future. Build it."*  
-> *Không bao giờ quên nơi mình bắt đầu.*
+> *"Don't predict the future. Build it."*
 
 [![GitHub](https://img.shields.io/badge/Main_Profile-@hungpixi-181717?logo=github&style=flat-square)](https://github.com/hungpixi)
 [![Website](https://img.shields.io/badge/Portfolio-phamphunguyenhung.com-0052CC?style=flat-square)](https://phamphunguyenhung.com)
